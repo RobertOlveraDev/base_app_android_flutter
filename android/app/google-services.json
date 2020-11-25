@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161184026919",
+    "firebase_url": "https://magyssu.firebaseio.com",
+    "project_id": "magyssu",
+    "storage_bucket": "magyssu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161184026919:android:eaf7a33cc58f8284649902",
+        "android_client_info": {
+          "package_name": "com.robolverap.magyssu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161184026919-ah7kkq2ticiuv2a67utivbhet8tgc5b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFX4KS5IkuIqfMuAWmsstybV9qVO-ode4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161184026919-ah7kkq2ticiuv2a67utivbhet8tgc5b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
